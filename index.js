@@ -8,7 +8,7 @@ function takeANumber(katzDeliLine,newname){
 
 function nowServing(deliLine){
   var name;
-  
+ 
 }
 
 function currentLine(katzDeliLine){
