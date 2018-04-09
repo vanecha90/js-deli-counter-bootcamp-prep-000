@@ -6,7 +6,7 @@ function takeANumber(katzDeliLine,newname){
  
 }
 
-function nowServing(){
+function nowServing(deliLine){
   
 }
 
