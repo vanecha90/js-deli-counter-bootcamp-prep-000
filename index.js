@@ -17,5 +17,7 @@ function nowServing(deliLine){
 }
 
 function currentLine(katzDeliLine){
-  
+  if(){
+  return  
+  }
 }
