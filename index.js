@@ -26,5 +26,5 @@ function currentLine(katzDeliLine){
  for(let i = 1; i<katzDeliLine.length;i++){
   line += ", ${i+1}. ${katzDeliLine[i]}"
  }
- return line;
+ return line
 }
