@@ -8,7 +8,9 @@ function takeANumber(katzDeliLine,newname){
 
 function nowServing(deliLine){
   var name;
- 
+ if(name ===0){
+   
+ }
 }
 
 function currentLine(katzDeliLine){
