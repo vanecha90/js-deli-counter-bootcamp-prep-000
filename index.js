@@ -21,12 +21,12 @@ function currentLine(katzDeliLine){
   return "The line is currently empty." 
   }
   
-  var mystring = 'The line is currently: 1. ${katzDeliLine[0]}'
+  var line = 'The line is currently: 1. ${katzDeliLine[0]}'
   
  for(let i = 1; i<katzDeliLine.length;i++){
   
-  mystring += ", ${i+1}. ${katzDeliLine[i]}"
+  line += ", ${i+1}. ${katzDeliLine[i]}"
    
  }
- return mystring;
+ return line;
 }
